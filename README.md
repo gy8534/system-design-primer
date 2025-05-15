@@ -1,20 +1,10 @@
-## The System Design Primer
-
-<p align="center">
-  <img src="images/jj3A5N8.png">
-  <br/>
-</p>
+# The System Design Primer
 
 ## Index of system design topics
 
 > Summaries of various system design topics, including pros and cons.  **Everything is a trade-off**.
 >
 > Each section contains links to more in-depth resources.
-
-<p align="center">
-  <img src="images/jrUBAF7.png">
-  <br/>
-</p>
 
 * [System design topics: start here](#system-design-topics-start-here)
     * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
